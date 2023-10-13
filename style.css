@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.form {
+    margin-bottom: 15px;
+}
+
+.resultParas {
+    font-size: 1.25em;
+    font-weight: bold;
+}
